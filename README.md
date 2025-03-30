@@ -110,22 +110,8 @@ cd banking-app
 - Import the SQL file provided in the repository to create necessary tables.
 - Update `bankingApp.java` with your database credentials.
 
-### 3. **Run the Application**
-```bash
-javac -d . *.java
-java org.example.bankingApp
-```
 
 ---
 
-## 📸 Screenshots
 
-### 📷 User Registration
-![User Registration](https://your-link.com/user-registration.png)
-
-### 📷 Account Creation
-![Account Created](https://your-link.com/account-created.png)
-
-### 📷 Money Transfer Success
-![Money Transfer](https://your-link.com/transfer-success.png)
 
