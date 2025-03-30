@@ -58,7 +58,8 @@ This Banking Management System is developed using **Java** and **JDBC**. The sys
 INSERT INTO user (user_name, email, password) 
 VALUES ("John Doe", "john@example.com", "password123");
 ```
-![User Registration Success](https://your-link.com/user-registration.png)
+![User Registration Success](https://github.com/shruti-ugale-code/Banking_management_system/blob/main/registration.img.png?raw=true)
+![User Registration Success](https://github.com/shruti-ugale-code/Banking_management_system/blob/main/registration%20table.png?raw=true)
 
 ---
 
@@ -77,7 +78,8 @@ VALUES ("John Doe", "john@example.com", "password123");
 INSERT INTO accounts (account_no, user_name, email, balance, security_pin)
 VALUES (10000100, "John Doe", "john@example.com", 5000, "1234");
 ```
-![Account Created Successfully](https://your-link.com/account-created.png)
+![Account Created Successfully](https://github.com/shruti-ugale-code/Banking_management_system/blob/main/Screenshot%202025-03-30%20202717(1).png?raw=true)
+![Account Created Successfully](https://github.com/shruti-ugale-code/Banking_management_system/blob/main/Account%20create.png?raw=true)
 
 ---
 
@@ -93,7 +95,7 @@ VALUES (10000100, "John Doe", "john@example.com", 5000, "1234");
 UPDATE accounts SET balance = balance - 1000 WHERE account_no = 10000100;
 UPDATE accounts SET balance = balance + 1000 WHERE account_no = 10000101;
 ```
-![Money Transfer Success](https://your-link.com/transfer-success.png)
+
 
 ---
 
